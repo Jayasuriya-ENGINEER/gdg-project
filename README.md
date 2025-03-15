@@ -61,7 +61,7 @@
    npm start
    ```
 
-6. **Run the ML Model (Optional)**
+6. **Run the ML Model**
    ```sh
    cd ml-model
    python app.py
@@ -76,4 +76,4 @@ For inquiries regarding usage or licensing, contact [jayasuriya77721@gmail.com].
 Contributions are welcome! If you’d like to contribute, please open an issue or pull request.
 
 ## 📞 Contact
-For inquiries, reach out at [your-email@example.com](mailto:your-email@example.com).
+For inquiries, reach out at jayasuriya77721@gmail.com.
